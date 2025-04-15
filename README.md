@@ -13,3 +13,9 @@ The control panel allows users to filter the table by task status, such as Activ
 When the ERP program is launched, component access rules are automatically assigned to users. During this process, a verification is performed in that section. If a user has been assigned a task or is the administrator of a task, they will be redirected to the ToDoLists tab upon startup. The system will automatically filter and display the items relevant to the user's tasks.
 
 ![image](https://github.com/user-attachments/assets/3f12b7c0-623f-41b8-8011-9aaba78626a2)
+
+When a new item is added to the system and has not yet entered production, it is automatically imported into the item table of the to-do list. It will appear in the list of items that are not yet activated.
+
+In the system, multiple users have different roles and responsibilities. When a new article is imported, users with relevant responsibilities are automatically associated with it. These associations can be modified later if necessary.
+
+Changes made in the to-do list tab do not affect other parts of the system. Such changes are often made to accommodate situations where the person initially responsible for a task is unavailable. In these cases, the task or responsibility can be reassigned to another user to ensure continuity and efficiency.
