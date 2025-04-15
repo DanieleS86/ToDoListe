@@ -19,3 +19,7 @@ When a new item is added to the system and has not yet entered production, it is
 In the system, multiple users have different roles and responsibilities. When a new article is imported, users with relevant responsibilities are automatically associated with it. These associations can be modified later if necessary.
 
 Changes made in the to-do list tab do not affect other parts of the system. Such changes are often made to accommodate situations where the person initially responsible for a task is unavailable. In these cases, the task or responsibility can be reassigned to another user to ensure continuity and efficiency.
+
+![image](https://github.com/user-attachments/assets/c3924448-73b3-4e59-9e11-8e76c21648ce)
+
+
